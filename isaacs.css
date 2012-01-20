@@ -72,7 +72,7 @@ html[type=talk] .line[highlight=true] {
 .address { text-decoration: underline; word-break: break-all; }
 .highlight { color: #f00!important; font-weight: normal!important; }
 html[type=talk] .highlight { color:inherit !important; font-weight:normal !important; }
-.time { color: #048; display:table-cell; padding:0 1ex 0 0; }
+.time { color: #048; display:table-cell; padding:0 1ex 0 0; width:5ex; }
 .line .sender { display:table-cell; min-width:15ex; padding:0 1ex 0 0; text-align:right; }
 .line .time {
   color:#ccc;
